@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BDLite</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="cedula">Cédula</string>
+    <string name="agregar">Registar</string>
+    <string name="preguntar">Consultar</string>
+</resources>
